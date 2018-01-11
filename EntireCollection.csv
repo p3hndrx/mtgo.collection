@@ -1,25 +1,41 @@
 Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
-"Jinxed Idol",1,9733,Rare,TE,293/350,No
-"Bounty Hunter",2,9779,Rare,TE,110/350,No
-"Anathemancer",1,32264,Uncommon,ARB,33/145,No
-"Bronze Bombshell",1,24153,Rare,DIS,160/180,No
-"Delusions of Mediocrity",1,15460,Rare,7E,70/350,No
-"Form of the Dragon",1,22746,Rare,9ED,187/350,Yes
-"Form of the Dragon",1,18700,Rare,SCG,93/143,No
-"Goblin Cadets",1,12397,Uncommon,UZ,189/350,No
-"Goldnight Castigator",1,60184,Mythic Rare,SOI,162/297,No
-"Grid Monitor",1,19887,Rare,MRD,183/306,No
-"Illusions of Grandeur",1,28049,Rare,MED,40/195,No
-"Ishkanah, Grafwidow",1,61258,Mythic Rare,EMN,162/205,No
-"Lightmine Field",2,36410,Rare,ROE,32/248,No
-"Patron Wizard",1,16875,Rare,OD,89/350,No
-"Pyromancer's Swath",1,26910,Rare,FUT,104/180,No
-"Riptide Director",1,18379,Rare,LGN,50/145,No
-"Riptide Laboratory",1,18265,Rare,ONS,322/350,No
-"Rust Elemental",1,20109,Uncommon,MRD,234/306,No
-"Scryb Ranger",1,25859,Uncommon,TSP,215/301,No
-"Transcendence",1,17115,Rare,TOR,20/143,No
-"Vedalken Plotter",1,40750,Uncommon,CMD,66/318,No
+"Giant Trap Door Spider",1,30455,Uncommon,ME2,195/245,Yes
+"Acid Web Spider",1,38287,Uncommon,SOM,108/249,No
+"Ancient Spider",1,15147,Rare,PS,96/143,No
+"Arachnoid",1,20630,Uncommon,5DN,102/165,No
+"Arachnus Spinner",1,63247,Uncommon,MM3,117/249,No
+"Archweaver",1,46702,Uncommon,RTR,114/274,Yes
+"Canopy Spider",1,15404,Common,7E,234/350,No
+"Edgar Markov",1,65693,Mythic Rare,PZ2,/309,No
+"Ember Weaver",1,31859,Common,CON,81/145,No
+"Fatal Push",1,64997,Promo,PRM,/1158,No
+"Frostweb Spider",1,24645,Common,CSP,109/155,No
+"Gloomwidow",1,59748,Uncommon,SOI,206/297,No
+"Goliath Spider",1,23316,Uncommon,RAV,168/306,No
+"Grappler Spider",1,35575,Common,WWK,102/145,No
+"Hitchclaw Recluse",1,58060,Common,ORI,181/272,No
+"Juvenile Gloomwidow",1,29661,Common,SHM,121/301,No
+"Kess, Dissident Mage",1,65763,Mythic Rare,PZ2,/309,No
+"Kessig Recluse",1,43209,Common,DKA,121/158,No
+"Muraganda Petroglyphs",1,26712,Rare,FUT,146/180,No
+"Myr Landshaper",2,20291,Common,DST,131/165,No
+"Mystic Retrieval",1,43335,Uncommon,DKA,42/158,No
+"Needlepeak Spider",1,26221,Common,PLC,105/165,No
+"Oran-Rief Recluse",1,34342,Common,ZEN,173/249,No
+"Pincer Spider",1,14373,Common,IN,201/350,No
+"Plated Spider",1,13017,Common,UD,116/143,No
+"Rib Cage Spider",1,14067,Common,PR,121/143,No
+"Sentinel Spider",1,60773,Common,EMA,185/249,No
+"Skysnare Spider",1,58068,Uncommon,ORI,197/272,No
+"Somberwald Spider",1,42628,Common,ISD,202/264,No
+"Spitting Spider",1,19225,Uncommon,8ED,280/350,No
+"Splinter",1,21853,Uncommon,BOK,146/165,No
+"Steam Spitter",1,24715,Uncommon,CSP,124/155,No
+"Stingerfling Spider",1,41357,Uncommon,M12,197/249,No
+"Tangle Spider",1,27600,Uncommon,10E,303/383,No
+"Tanglewalker",1,20309,Uncommon,DST,86/165,No
+"Watcher in the Web",1,60248,Common,SOI,239/297,No
+"Woolly Spider",1,30604,Uncommon,ME2,189/245,No
 "Abandon Reason",1,61408,Uncommon,EMN,115/205,No
 "Abandoned Outpost",1,16467,Common,OD,312/350,No
 "Abandoned Sarcophagus",1,64840,Rare,HOU,158/199,No
@@ -198,6 +214,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Anaba Ancestor",1,33672,Common,ME3,86/230,No
 "Anaba Spirit Crafter",1,33674,Common,ME3,87/230,No
 "Anafenza, Kin-Tree Spirit",1,55978,Rare,DTK,2/264,No
+"Anathemancer",1,32264,Uncommon,ARB,33/145,No
 "Anax and Cymede",1,50388,Rare,THS,186/249,No
 "Ancestral Knowledge",1,9329,Rare,WL,32/167,No
 "Ancestral Mask",4,60947,Uncommon,EMA,157/249,No
@@ -748,6 +765,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Bound in Silence",1,26684,Uncommon,FUT,20/180,No
 "Boundless Realms",2,45586,Rare,M13,162/249,No
 "Bounteous Kirin",1,22100,Rare,SOK,123/165,No
+"Bounty Hunter",2,9779,Rare,TE,110/350,No
 "Bounty of the Luxa",1,63994,Rare,AKH,196/269,No
 "Bow of Nylea",1,50412,Rare,THS,153/249,No
 "Brace for Impact",1,24277,Uncommon,DIS,5/180,No
@@ -795,6 +813,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Brink of Madness",1,12699,Rare,UL,50/143,No
 "Brion Stoutarm",1,28465,Rare,LRW,246/301,No
 "Broken Concentration",4,59976,Uncommon,SOI,50/297,No
+"Bronze Bombshell",1,24153,Rare,DIS,160/180,No
 "Brood Keeper",1,53550,Uncommon,M15,132/269,No
 "Brood of Cockroaches",1,7491,Uncommon,VI,53/167,No
 "Brood Sliver",1,18383,Rare,LGN,120/145,No
@@ -859,7 +878,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Caltrops",1,12931,Uncommon,UD,129/143,No
 "Campaign of Vengeance",2,61266,Uncommon,EMN,182/205,No
 "Cancel",4,31299,Common,ALA,33/249,No
-"Candelabra of Tawnos",1,62531,Promo,PRM,/,No
+"Candelabra of Tawnos",1,62531,Promo,PRM,/1158,No
 "Candles' Glow",1,21545,Uncommon,CHK,5/306,No
 "Canopy Dragon",1,6841,Rare,MI,209/350,No
 "Canopy Vista",1,58671,Rare,BFZ,234/274,No
@@ -1472,6 +1491,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Deflection",2,19619,Rare,8ED,74/350,No
 "Deft Dismissal",4,62599,Uncommon,AER,17/184,No
 "Delay",1,26952,Uncommon,FUT,35/180,No
+"Delusions of Mediocrity",1,15460,Rare,7E,70/350,No
 "Delver of Secrets",4,42436,Common,ISD,51/264,No
 "Demon of Dark Schemes",1,61667,Mythic Rare,KLD,73/264,No
 "Demonfire",1,24087,Rare,DIS,60/180,No
@@ -1661,7 +1681,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Dragonlord Ojutai",1,56048,Mythic Rare,DTK,219/264,No
 "Dragonlord Silumgar",1,55934,Mythic Rare,DTK,220/264,No
 "Dragonlord's Prerogative",1,56398,Rare,DTK,52/264,No
-"Dragonlord's Servant",4,55885,Promo,PRM,/,Yes
+"Dragonlord's Servant",4,55885,Promo,PRM,/1158,Yes
 "Dragonrage",1,55348,Uncommon,FRF,97/185,No
 "Dragon's Claw",4,20607,Uncommon,DST,117/165,No
 "Dragonskull Summit",4,37242,Rare,M11,223/249,No
@@ -2059,8 +2079,8 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Famine",1,51444,Uncommon,C13,77/356,No
 "Fan Bearer",1,63626,Common,AKH,12/269,No
 "Fanatic of Mogis",2,50464,Uncommon,THS,121/249,No
-"Fanatic of Xenagos",1,54560,Promo,PRM,/,Yes
-"Fanatic of Xenagos",1,54559,Promo,PRM,/,No
+"Fanatic of Xenagos",1,54560,Promo,PRM,/1158,Yes
+"Fanatic of Xenagos",1,54559,Promo,PRM,/1158,No
 "Fanatic of Xenagos",2,51865,Uncommon,BNG,147/165,No
 "Fangren Marauder",4,39331,Common,MBS,79/155,No
 "Far Wanderings",1,17297,Common,TOR,125/143,No
@@ -2241,6 +2261,8 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Forgotten Creation",4,60322,Rare,SOI,63/297,No
 "Foriysian Totem",1,25467,Uncommon,TSP,254/301,No
 "Fork",1,207,Rare,PRM,37/1158,No
+"Form of the Dragon",1,22746,Rare,9ED,187/350,Yes
+"Form of the Dragon",1,18700,Rare,SCG,93/143,No
 "Forsake the Worldly",1,63628,Common,AKH,13/269,No
 "Forsaken Sanctuary",1,59750,Uncommon,SOI,273/297,No
 "Forsaken Wastes",1,7001,Rare,MI,125/350,No
@@ -2499,11 +2521,12 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Goblin Artillery",1,32865,Uncommon,M10,138/249,No
 "Goblin Bombardment",4,50830,Uncommon,C13,110/356,No
 "Goblin Bushwhacker",4,34388,Common,ZEN,125/249,No
+"Goblin Cadets",1,12397,Uncommon,UZ,189/350,No
 "Goblin Cannon",1,20682,Uncommon,5DN,125/165,No
 "Goblin Chieftain",2,37218,Rare,M11,141/249,No
 "Goblin Chirurgeon",1,27989,Common,MED,94/195,No
 "Goblin Cohort",4,21707,Common,BOK,106/165,No
-"Goblin Dark-Dwellers",1,59673,Promo,PRM,/,No
+"Goblin Dark-Dwellers",1,59673,Promo,PRM,/1158,No
 "Goblin Deathraiders",4,31033,Common,ALA,169/249,No
 "Goblin Diplomats",1,49434,Rare,M14,141/249,Yes
 "Goblin Electromancer",4,46363,Common,RTR,163/274,No
@@ -2554,6 +2577,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Goldmeadow Harrier",1,28185,Common,LRW,17/301,No
 "Goldmeadow Lookout",1,26664,Uncommon,FUT,22/180,No
 "Goldmeadow Stalwart",1,28531,Uncommon,LRW,18/301,No
+"Goldnight Castigator",1,60184,Mythic Rare,SOI,162/297,No
 "Golem's Heart",1,38130,Uncommon,SOM,161/249,Yes
 "Golem-Skin Gauntlets",1,19772,Uncommon,MRD,181/306,Yes
 "Golem-Skin Gauntlets",1,19771,Uncommon,MRD,181/306,No
@@ -2640,6 +2664,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Gremlin Infestation",4,62743,Uncommon,AER,83/184,No
 "Grenzo, Dungeon Warden",1,53211,Rare,VMA,254/325,No
 "Grenzo, Havoc Raiser",1,62273,Rare,PZ2,29/73,No
+"Grid Monitor",1,19887,Rare,MRD,183/306,No
 "Griffin Canyon",1,7573,Rare,VI,163/167,No
 "Grifter's Blade",1,23031,Uncommon,RAV,263/306,Yes
 "Grim Affliction",1,39758,Common,NPH,63/175,No
@@ -2995,6 +3020,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Illusionist's Bracers",1,47926,Rare,GTC,231/249,Yes
 "Illusionist's Bracers",1,47925,Rare,GTC,231/249,No
 "Illusionist's Stratagem",4,62645,Uncommon,AER,36/184,No
+"Illusions of Grandeur",1,28049,Rare,MED,40/195,No
 "Illusory Gains",1,56350,Rare,DTK,59/264,No
 "Illusory Wrappings",1,63718,Common,AKH,58/269,No
 "Imaginary Threats",1,64558,Uncommon,HOU,37/199,No
@@ -3122,6 +3148,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Isao, Enlightened Bushi",1,21599,Rare,BOK,129/165,No
 "Ishai, Ojutai Dragonspeaker",1,62305,Mythic Rare,PZ2,57/73,No
 "Ishi-Ishi, Akki Crackshot",1,21875,Rare,BOK,110/165,No
+"Ishkanah, Grafwidow",1,61258,Mythic Rare,EMN,162/205,No
 "Island",13,53482,Basic Land,M15,255/269,No
 "Island",13,53392,Basic Land,M15,257/269,No
 "Island",12,53368,Basic Land,M15,256/269,No
@@ -3200,6 +3227,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Jhoira of the Ghitu",1,48664,Rare,MMA,177/229,No
 "Jhoira's Timebug",1,25791,Common,TSP,257/301,No
 "Jin-Gitaxias, Core Augur",1,39708,Mythic Rare,NPH,37/175,No
+"Jinxed Idol",1,9733,Rare,TE,293/350,No
 "Jiwari, the Earth Aflame",1,21962,Rare,SOK,107/165,No
 "Jolrael, Empress of Beasts",4,14115,Rare,PR,115/143,No
 "Jolting Merfolk",1,13807,Uncommon,NE,34/143,No
@@ -3536,6 +3564,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Lifespring Druid",1,58467,Common,BFZ,177/274,No
 "Light from Within",4,30004,Rare,EVE,10/180,No
 "Lightkeeper of Emeria",1,40589,Uncommon,CMD,18/318,No
+"Lightmine Field",2,36410,Rare,ROE,32/248,No
 "Lightning Berserker",1,55974,Uncommon,DTK,146/264,No
 "Lightning Blow",1,33668,Common,ME3,18/230,No
 "Lightning Bolt",4,32859,Common,M10,146/249,No
@@ -4081,7 +4110,6 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Myr Battlesphere",1,38307,Rare,SOM,180/249,No
 "Myr Enforcer",4,57370,Common,MM2,224/249,No
 "Myr Galvanizer",4,38455,Uncommon,SOM,181/249,No
-"Myr Landshaper",1,20291,Common,DST,131/165,No
 "Myr Matrix",2,20415,Rare,DST,132/165,No
 "Myr Propagator",4,38411,Rare,SOM,182/249,No
 "Myr Quadropod",1,20724,Common,5DN,138/165,No
@@ -4373,7 +4401,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Oracle's Vault",1,64130,Rare,AKH,234/269,No
 "Oran-Rief Hydra",4,58681,Rare,BFZ,181/274,No
 "Oran-Rief, the Vastwood",1,34626,Rare,ZEN,221/249,No
-"Orator of Ojutai",1,57578,Promo,PRM,/,No
+"Orator of Ojutai",1,57578,Promo,PRM,/1158,No
 "Orb of Dreams",1,21843,Rare,BOK,156/165,No
 "Orchard Warden",1,29150,Uncommon,MOR,131/150,No
 "Orcish Oriflamme",1,60647,Common,EMA,140/249,No
@@ -4491,6 +4519,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Patron of the Nezumi",1,21887,Rare,BOK,77/165,No
 "Patron of the Orochi",1,21791,Rare,BOK,138/165,No
 "Patron of the Vein",1,65727,Rare,PZ2,/309,No
+"Patron Wizard",1,16875,Rare,OD,89/350,No
 "Pattern of Rebirth",1,12907,Rare,UD,115/143,No
 "Paupers' Cage",1,7181,Rare,MI,314/350,No
 "Pavel Maliki",1,33572,Uncommon,ME3,165/230,No
@@ -4808,6 +4837,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Pyroconvergence",1,46693,Uncommon,RTR,103/274,No
 "Pyrohemia",1,40470,Uncommon,CMD,132/318,No
 "Pyrohemia",1,26487,Uncommon,PLC,119/165,No
+"Pyromancer's Swath",1,26910,Rare,FUT,104/180,No
 "Pyxis of Pandemonium",1,50442,Rare,THS,220/249,No
 "Qasali Pridemage",4,32284,Common,ARB,75/145,No
 "Qasali Slingers",1,65709,Rare,PZ2,/309,No
@@ -5117,7 +5147,9 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Riparian Tiger",4,62009,Common,KLD,167/264,No
 "Ripjaw Raptor",1,65426,Rare,XLN,203/279,No
 "Ripscale Predator",1,47829,Uncommon,GTC,103/249,No
+"Riptide Director",1,18379,Rare,LGN,50/145,No
 "Riptide Entrancer",1,17647,Rare,ONS,108/350,No
+"Riptide Laboratory",1,18265,Rare,ONS,322/350,No
 "Riptide Pilferer",1,26240,Uncommon,PLC,60/165,Yes
 "Rise from the Grave",4,45300,Uncommon,M13,107/249,No
 "Rise from the Tides",4,59824,Uncommon,SOI,83/297,No
@@ -5205,7 +5237,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Ruin Rat",1,64634,Common,HOU,75/199,No
 "Ruination",1,10353,Rare,ST,95/143,No
 "Ruinous Gremlin",4,61997,Common,KLD,128/264,No
-"Ruinous Path",1,58273,Promo,PRM,/,No
+"Ruinous Path",1,58273,Promo,PRM,/1158,No
 "Ruins of Trokair",1,30360,Uncommon,ME2,234/245,No
 "Rummaging Goblin",4,45520,Common,M13,146/249,No
 "Rune of Protection: Artifacts",1,12015,Uncommon,UZ,35/350,No
@@ -5231,6 +5263,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Rush of Vitality",4,61931,Common,KLD,99/264,No
 "Rushwood Dryad",4,27320,Common,10E,294/383,No
 "Rushwood Grove",1,13361,Uncommon,MM,325/350,No
+"Rust Elemental",1,20109,Uncommon,MRD,234/306,No
 "Rust Scarab",1,47639,Uncommon,GTC,130/249,No
 "Rustspore Ram",1,20034,Uncommon,MRD,235/306,Yes
 "Ruthless Disposal",4,61158,Uncommon,EMN,103/205,No
@@ -5371,6 +5404,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Scrounger of Souls",1,64636,Common,HOU,76/199,No
 "Scrounging Bandar",4,62759,Common,AER,124/184,No
 "Scrubland",1,53087,Rare,VMA,313/325,No
+"Scryb Ranger",1,25859,Uncommon,TSP,215/301,No
 "Scrying Sheets",1,24653,Rare,CSP,149/155,No
 "Sculpting Steel",1,20059,Rare,MRD,238/306,No
 "Scute Mob",1,34484,Rare,ZEN,182/249,No
@@ -5566,7 +5600,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Sidewinder Sliver",4,25835,Common,TSP,41/301,No
 "Sidisi, Brood Tyrant",1,54256,Mythic Rare,KTK,199/269,No
 "Sidisi, Undead Vizier",1,56038,Rare,DTK,120/264,No
-"Siege Dragon",1,53835,Promo,PRM,162/269,Yes
+"Siege Dragon",1,53835,Promo,PRM,162/1158,Yes
 "Siege Modification",4,62741,Uncommon,AER,99/184,No
 "Siege Rhino",4,54180,Rare,KTK,200/269,No
 "Siege Wurm",4,53776,Common,M15,200/269,No
@@ -6112,7 +6146,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Sunpetal Grove",1,41229,Rare,M12,229/249,No
 "Sunrise Sovereign",1,28355,Rare,LRW,192/301,No
 "Sunscorch Regent",1,56196,Rare,DTK,41/264,No
-"Sunscorch Regent",1,55896,Promo,PRM,/,No
+"Sunscorch Regent",1,55896,Promo,PRM,/1158,No
 "Sunscorched Desert",1,64160,Common,AKH,249/269,No
 "Sunscourge Champion",1,64536,Uncommon,HOU,26/199,No
 "Sunset Pyramid",1,64856,Uncommon,HOU,166/199,No
@@ -6346,7 +6380,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Thalakos Seer",1,9608,Common,TE,94/350,Yes
 "Thalakos Seer",1,9607,Common,TE,94/350,No
 "Thalakos Sentry",1,9603,Common,TE,95/350,No
-"Thalia, Guardian of Thraben",1,55699,Promo,PRM,/,No
+"Thalia, Guardian of Thraben",1,55699,Promo,PRM,/1158,No
 "Thalia, Heretic Cathar",2,61308,Rare,EMN,46/205,No
 "Thalia's Lancers",2,61310,Rare,EMN,47/205,No
 "Thalia's Lieutenant",2,59788,Rare,SOI,43/297,No
@@ -6542,6 +6576,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Tranquil Expanse",1,59451,Uncommon,OGW,180/184,No
 "Tranquil Thicket",1,40683,Common,CMD,292/318,No
 "Tranquil Thicket",3,18243,Common,ONS,326/350,No
+"Transcendence",1,17115,Rare,TOR,20/143,No
 "Transcendent Master",1,36674,Mythic Rare,ROE,51/248,No
 "Transguild Courier",1,24177,Uncommon,DIS,168/180,No
 "Transguild Promenade",1,51272,Common,C13,330/356,No
@@ -6766,6 +6801,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Vedalken Engineer",1,20419,Common,DST,35/165,No
 "Vedalken Orrery",1,20692,Rare,5DN,163/165,No
 "Vedalken Outlander",1,31880,Common,CON,132/145,Yes
+"Vedalken Plotter",1,40750,Uncommon,CMD,66/318,No
 "Veiled Crocodile",1,12225,Rare,UZ,108/350,No
 "Veiled Serpent",1,11977,Common,UZ,110/350,No
 "Veilstone Amulet",1,26854,Rare,FUT,166/180,No
