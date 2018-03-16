@@ -7616,4 +7616,39 @@
   <Cards CatID="65652" Quantity="1" Sideboard="false" Name="Cuombajj Witches" />
   <Cards CatID="18537" Quantity="1" Sideboard="false" Name="Daru Stinger" />
   <Cards CatID="33512" Quantity="1" Sideboard="false" Name="D'Avenant Archer" />
+  <Cards CatID="9653" Quantity="1" Sideboard="false" Name="Armored Pegasus" />
+  <Cards CatID="41493" Quantity="1" Sideboard="false" Name="Armored Warhorse" />
+  <Cards CatID="6807" Quantity="1" Sideboard="false" Name="Benevolent Unicorn" />
+  <Cards CatID="50448" Quantity="1" Sideboard="false" Name="Breaching Hippocamp" />
+  <Cards CatID="38804" Quantity="1" Sideboard="false" Name="Bronze Horse" />
+  <Cards CatID="14569" Quantity="1" Sideboard="false" Name="Capashen Unicorn" />
+  <Cards CatID="46491" Quantity="1" Sideboard="false" Name="Carnival Hellsteed" />
+  <Cards CatID="50432" Quantity="1" Sideboard="false" Name="Cavalry Pegasus" />
+  <Cards CatID="38343" Quantity="1" Sideboard="false" Name="Chrome Steed" />
+  <Cards CatID="30748" Quantity="1" Sideboard="false" Name="Clockwork Steed" />
+  <Cards CatID="46285" Quantity="1" Sideboard="false" Name="Concordia Pegasus" />
+  <Cards CatID="50328" Quantity="1" Sideboard="false" Name="Fleshmad Steed" />
+  <Cards CatID="60152" Quantity="1" Sideboard="false" Name="Ghoulsteed" />
+  <Cards CatID="27808" Quantity="1" Sideboard="false" Name="Mesa Pegasus" />
+  <Cards CatID="24097" Quantity="1" Sideboard="false" Name="Mistral Charger" />
+  <Cards CatID="51695" Quantity="1" Sideboard="false" Name="Noble Quarry" />
+  <Cards CatID="30530" Quantity="1" Sideboard="false" Name="Phantasmal Mount" />
+  <Cards CatID="14641" Quantity="1" Sideboard="false" Name="Phyrexian Altar" />
+  <Cards CatID="25563" Quantity="1" Sideboard="false" Name="Plated Pegasus" />
+  <Cards CatID="37188" Quantity="1" Sideboard="false" Name="Prized Unicorn" />
+  <Cards CatID="9449" Quantity="1" Sideboard="false" Name="Revered Unicorn" />
+  <Cards CatID="24709" Quantity="1" Sideboard="false" Name="Ronom Unicorn" />
+  <Cards CatID="13301" Quantity="1" Sideboard="false" Name="Sacred Prey" />
+  <Cards CatID="60290" Quantity="1" Sideboard="false" Name="Stallion of Ashmouth" />
+  <Cards CatID="64304" Quantity="1" Sideboard="false" Name="Stormfront Pegasus" />
+  <Cards CatID="54120" Quantity="1" Sideboard="false" Name="Temur Charger" />
+  <Cards CatID="22305" Quantity="1" Sideboard="false" Name="Thundermare" />
+  <Cards CatID="26361" Quantity="1" Sideboard="false" Name="Timbermare" />
+  <Cards CatID="14211" Quantity="1" Sideboard="false" Name="Trenching Steed" />
+  <Cards CatID="53096" Quantity="1" Sideboard="false" Name="Tundra" />
+  <Cards CatID="53097" Quantity="1" Sideboard="false" Name="Underground Sea" />
+  <Cards CatID="53099" Quantity="1" Sideboard="false" Name="Volcanic Island" />
+  <Cards CatID="13335" Quantity="1" Sideboard="false" Name="Wishmonger" />
+  <Cards CatID="10579" Quantity="1" Sideboard="false" Name="Workhorse" />
+  <Cards CatID="7449" Quantity="1" Sideboard="false" Name="Zebra Unicorn" />
 </Deck>
