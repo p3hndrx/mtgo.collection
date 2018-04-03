@@ -7651,4 +7651,24 @@
   <Cards CatID="13335" Quantity="1" Sideboard="false" Name="Wishmonger" />
   <Cards CatID="10579" Quantity="1" Sideboard="false" Name="Workhorse" />
   <Cards CatID="7449" Quantity="1" Sideboard="false" Name="Zebra Unicorn" />
+  <Cards CatID="31327" Quantity="1" Sideboard="false" Name="Angelic Benediction" />
+  <Cards CatID="32432" Quantity="1" Sideboard="false" Name="Ardent Plea" />
+  <Cards CatID="31863" Quantity="1" Sideboard="false" Name="Aven Squire" />
+  <Cards CatID="31029" Quantity="1" Sideboard="false" Name="Court Archers" />
+  <Cards CatID="45550" Quantity="1" Sideboard="false" Name="Duskmantle Prowler" />
+  <Cards CatID="45504" Quantity="1" Sideboard="false" Name="Duty-Bound Dead" />
+  <Cards CatID="32268" Quantity="1" Sideboard="false" Name="Ethercaste Knight" />
+  <Cards CatID="17643" Quantity="1" Sideboard="false" Name="Exalted Angel" />
+  <Cards CatID="32382" Quantity="1" Sideboard="false" Name="Finest Hour" />
+  <Cards CatID="31865" Quantity="1" Sideboard="false" Name="Frontline Sage" />
+  <Cards CatID="31905" Quantity="1" Sideboard="false" Name="Giltspire Avenger" />
+  <Cards CatID="45538" Quantity="1" Sideboard="false" Name="Knight of Glory" />
+  <Cards CatID="45548" Quantity="1" Sideboard="false" Name="Knight of Infamy" />
+  <Cards CatID="59147" Quantity="1" Sideboard="false" Name="Meren of Clan Nel Toth" />
+  <Cards CatID="31023" Quantity="1" Sideboard="false" Name="Outrider of Jhess" />
+  <Cards CatID="31027" Quantity="1" Sideboard="false" Name="Rhox Charger" />
+  <Cards CatID="45506" Quantity="1" Sideboard="false" Name="Servant of Nefarox" />
+  <Cards CatID="31235" Quantity="1" Sideboard="false" Name="Sighted-Caste Sorcerer" />
+  <Cards CatID="32244" Quantity="1" Sideboard="false" Name="Sigiled Behemoth" />
+  <Cards CatID="31021" Quantity="1" Sideboard="false" Name="Waveskimmer Aven" />
 </Deck>
