@@ -1543,7 +1543,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Recoil",4,14547,Common,IN,264/350,No
 "Reflector Mage",4,59587,Uncommon,OGW,157/184,No
 "Relentless Assault",4,15790,Rare,7E,214/350,No
-"Relic of Progenitus",4,37895,Common,TD0,B29/41,No
+"Relic of Progenitus",4,37895,Common,TD0,A117/156,No
 "Relic Seeker",4,58158,Rare,ORI,29/272,No
 "Remove Soul",4,22595,Common,9ED,93/350,No
 "Rendclaw Trow",4,30262,Common,EVE,127/180,No
@@ -5104,7 +5104,7 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Llanowar Behemoth",1,18991,Uncommon,8ED,261/350,No
 "Llanowar Druid",1,9163,Common,WL,133/167,No
 "Llanowar Elves",1,61001,Common,EMA,175/249,No
-"Llanowar Elves",1,35934,Common,PRM,70/1158,No
+"Llanowar Elves",1,35934,Common,PRM,257/1158,No
 "Llanowar Elves",1,15652,Common,7E,253/350,No
 "Llanowar Elves",1,37568,Common,M11,184/249,No
 "Llanowar Reborn",1,26808,Uncommon,FUT,171/180,No
@@ -8356,3 +8356,230 @@ Card Name,Quantity,ID #,Rarity,Set,Collector #,Premium,
 "Zurgo Bellstriker",1,56050,Rare,DTK,169/264,No
 "Zurgo Helmsmasher",1,54250,Mythic Rare,KTK,214/269,No
 "Zur's Weirding",1,22855,Rare,9ED,114/350,No
+"Lyra Dawnbringer",1,67517,Mythic Rare,DAR,26/269,No
+"Academy Drake",1,67545,Common,DAR,40/269,No
+"Academy Journeymage",1,67547,Common,DAR,41/269,No
+"Adamant Will",1,67469,Common,DAR,2/269,No
+"Adventurous Impulse",1,67771,Common,DAR,153/269,No
+"Aesthir Glider",1,67883,Common,DAR,209/269,No
+"Ancient Animus",1,67773,Common,DAR,154/269,No
+"Arbor Armament",1,67775,Common,DAR,155/269,No
+"Arcane Flight",1,67551,Common,DAR,43/269,No
+"Artificer's Assistant",1,67553,Common,DAR,44/269,No
+"Aven Sentry",1,67471,Common,DAR,3/269,No
+"Baloth Gorger",1,67777,Common,DAR,156/269,No
+"Befuddle",1,67555,Common,DAR,45/269,No
+"Benalish Honor Guard",1,67475,Common,DAR,5/269,No
+"Blessed Light",1,67479,Common,DAR,7/269,No
+"Blessing of Belzenlok",1,67619,Common,DAR,77/269,No
+"Blink of an Eye",1,67557,Common,DAR,46/269,No
+"Bloodstone Goblin",1,67695,Common,DAR,115/269,No
+"Bloodtallow Candle",1,67889,Common,DAR,212/269,No
+"Broken Bond",1,67779,Common,DAR,157/269,No
+"Cabal Evangel",1,67621,Common,DAR,78/269,No
+"Cabal Paladin",1,67623,Common,DAR,79/269,No
+"Caligo Skin-Witch",1,67625,Common,DAR,80/269,No
+"Call the Cavalry",1,67483,Common,DAR,9/269,No
+"Charge",1,67485,Common,DAR,10/269,No
+"Cloudreader Sphinx",1,67559,Common,DAR,47/269,No
+"Cold-Water Snapper",1,67561,Common,DAR,48/269,No
+"Corrosive Ooze",1,67781,Common,DAR,158/269,No
+"Dark Bargain",1,67631,Common,DAR,83/269,No
+"D'Avenant Trapper",1,67487,Common,DAR,11/269,No
+"Deathbloom Thallid",1,67633,Common,DAR,84/269,No
+"Deep Freeze",1,67565,Common,DAR,50/269,No
+"Demonic Vigor",1,67635,Common,DAR,85/269,No
+"Divest",1,67639,Common,DAR,87/269,No
+"Drudge Sentinel",1,67643,Common,DAR,89/269,No
+"Dub",1,67495,Common,DAR,15/269,No
+"Eviscerate",1,67647,Common,DAR,91/269,No
+"Excavation Elephant",1,67499,Common,DAR,17/269,No
+"Feral Abomination",1,67649,Common,DAR,92/269,No
+"Fervent Strike",1,67699,Common,DAR,117/269,No
+"Fiery Intervention",1,67701,Common,DAR,118/269,No
+"Frenzied Rage",1,67713,Common,DAR,124/269,No
+"Fungal Infection",1,67653,Common,DAR,94/269,No
+"Gaea's Protector",1,67789,Common,DAR,162/269,No
+"Ghitu Chronicler",1,67715,Common,DAR,125/269,No
+"Ghitu Journeymage",1,67717,Common,DAR,126/269,No
+"Ghitu Lavarunner",1,67719,Common,DAR,127/269,No
+"Gift of Growth",1,67791,Common,DAR,163/269,No
+"Grow from the Ashes",1,67793,Common,DAR,164/269,No
+"Guardians of Koilos",1,67897,Common,DAR,216/269,No
+"Healing Grace",1,67505,Common,DAR,20/269,No
+"Homarid Explorer",1,67571,Common,DAR,53/269,No
+"Invoke the Divine",1,67509,Common,DAR,22/269,No
+"Jousting Lance",1,67907,Common,DAR,221/269,No
+"Keldon Overseer",1,67733,Common,DAR,134/269,No
+"Keldon Raider",1,67735,Common,DAR,135/269,No
+"Keldon Warcaller",1,67737,Common,DAR,136/269,No
+"Knight of New Benalia",1,67513,Common,DAR,24/269,No
+"Krosan Druid",1,67799,Common,DAR,167/269,No
+"Llanowar Envoy",1,67803,Common,DAR,169/269,No
+"Llanowar Scout",1,67805,Common,DAR,170/269,No
+"Mammoth Spider",1,67807,Common,DAR,171/269,No
+"Mesa Unicorn",1,67519,Common,DAR,27/269,No
+"Navigator's Compass",1,67915,Common,DAR,225/269,No
+"Pardic Wanderer",1,67917,Common,DAR,226/269,No
+"Pegasus Courser",1,67523,Common,DAR,29/269,No
+"Pierce the Sky",1,67817,Common,DAR,176/269,No
+"Powerstone Shard",1,67919,Common,DAR,227/269,No
+"Primordial Wurm",1,67819,Common,DAR,177/269,No
+"Radiating Lightning",1,67741,Common,DAR,138/269,No
+"Rampaging Cyclops",1,67743,Common,DAR,139/269,No
+"Relic Runner",1,67589,Common,DAR,62/269,No
+"Rescue",1,67591,Common,DAR,63/269,No
+"Run Amok",1,67745,Common,DAR,140/269,No
+"Saproling Migration",1,67821,Common,DAR,178/269,No
+"Seismic Shift",1,67747,Common,DAR,141/269,No
+"Sergeant-at-Arms",1,67529,Common,DAR,32/269,No
+"Serra Disciple",1,67533,Common,DAR,34/269,No
+"Shivan Fire",1,67749,Common,DAR,142/269,No
+"Short Sword",1,67923,Common,DAR,229/269,No
+"Skittering Surveyor",1,67925,Common,DAR,230/269,No
+"Soul Salvage",1,67673,Common,DAR,104/269,No
+"Sparring Construct",1,67929,Common,DAR,232/269,No
+"Stronghold Confessor",1,67675,Common,DAR,105/269,No
+"Syncopate",1,67599,Common,DAR,67/269,No
+"Thallid Omnivore",1,67677,Common,DAR,106/269,No
+"Tolarian Scholar",1,67607,Common,DAR,71/269,No
+"Tragic Poet",1,67539,Common,DAR,37/269,No
+"Unwind",1,67609,Common,DAR,72/269,No
+"Vicious Offering",1,67685,Common,DAR,110/269,No
+"Vodalian Arcanist",1,67611,Common,DAR,73/269,No
+"Voltaic Servant",1,67937,Common,DAR,236/269,No
+"Warlord's Fury",1,67767,Common,DAR,151/269,No
+"Windgrace Acolyte",1,67689,Common,DAR,112/269,No
+"Yavimaya Sapherd",1,67843,Common,DAR,189/269,No
+"Adeliz, the Cinder Wind",1,67845,Uncommon,DAR,190/269,No
+"Amaranthine Wall",1,67885,Uncommon,DAR,210/269,No
+"Arvad the Cursed",1,67847,Uncommon,DAR,191/269,No
+"Baird, Steward of Argive",1,67473,Uncommon,DAR,4/269,No
+"Board the Weatherlight",1,67481,Uncommon,DAR,8/269,No
+"Cast Down",1,67627,Uncommon,DAR,81/269,No
+"Chainer's Torment",1,67629,Uncommon,DAR,82/269,No
+"Champion of the Flame",1,67697,Uncommon,DAR,116/269,No
+"Curator's Ward",1,67563,Uncommon,DAR,49/269,No
+"Damping Sphere",1,67891,Uncommon,DAR,213/269,No
+"Danitha Capashen, Paragon",1,67489,Uncommon,DAR,12/269,No
+"Dauntless Bodyguard",1,67493,Uncommon,DAR,14/269,No
+"Diligent Excavator",1,67567,Uncommon,DAR,51/269,No
+"Elfhame Druid",1,67783,Uncommon,DAR,159/269,No
+"Fight with Fire",1,67703,Uncommon,DAR,119/269,No
+"Final Parting",1,67651,Uncommon,DAR,93/269,No
+"Firefist Adept",1,67707,Uncommon,DAR,121/269,No
+"Fungal Plots",1,67785,Uncommon,DAR,160/269,No
+"Gaea's Blessing",1,67787,Uncommon,DAR,161/269,No
+"Garna, the Bloodflame",1,67853,Uncommon,DAR,194/269,No
+"Goblin Barrage",1,67721,Uncommon,DAR,128/269,No
+"Grunn, the Lonely King",1,67795,Uncommon,DAR,165/269,No
+"Hallar, the Firefletcher",1,67857,Uncommon,DAR,196/269,No
+"Howling Golem",1,67901,Uncommon,DAR,218/269,No
+"In Bolas's Clutches",1,67573,Uncommon,DAR,54/269,No
+"Jhoira's Familiar",1,67905,Uncommon,DAR,220/269,No
+"Knight of Grace",1,67511,Uncommon,DAR,23/269,No
+"Knight of Malice",1,67659,Uncommon,DAR,97/269,No
+"Kwende, Pride of Femeref",1,67515,Uncommon,DAR,25/269,No
+"Lingering Phantom",1,67663,Uncommon,DAR,99/269,No
+"Memorial to Folly",1,67949,Uncommon,DAR,242/269,No
+"Memorial to Genius",1,67951,Uncommon,DAR,243/269,No
+"Memorial to Glory",1,67953,Uncommon,DAR,244/269,No
+"Memorial to Unity",1,67955,Uncommon,DAR,245/269,No
+"Memorial to War",1,67957,Uncommon,DAR,246/269,No
+"Merfolk Trickster",1,67577,Uncommon,DAR,56/269,No
+"Nature's Spiral",1,67815,Uncommon,DAR,175/269,No
+"On Serra's Wings",1,67521,Uncommon,DAR,28/269,No
+"Orcish Vandal",1,67739,Uncommon,DAR,137/269,No
+"Raff Capashen, Ship's Mage",1,67869,Uncommon,DAR,202/269,No
+"Rona, Disciple of Gix",1,67871,Uncommon,DAR,203/269,No
+"Sanctum Spirit",1,67525,Uncommon,DAR,30/269,No
+"Seal Away",1,67527,Uncommon,DAR,31/269,No
+"Sentinel of the Pearl Trident",1,67595,Uncommon,DAR,65/269,No
+"Settle the Score",1,67671,Uncommon,DAR,103/269,No
+"Shanna, Sisay's Legacy",1,67873,Uncommon,DAR,204/269,No
+"Shield of the Realm",1,67921,Uncommon,DAR,228/269,No
+"Skizzik",1,67755,Uncommon,DAR,145/269,No
+"Slimefoot, the Stowaway",1,67875,Uncommon,DAR,205/269,No
+"Slinn Voda, the Rising Deep",1,67597,Uncommon,DAR,66/269,No
+"Song of Freyalise",1,67823,Uncommon,DAR,179/269,No
+"Sorcerer's Wand",1,67927,Uncommon,DAR,231/269,No
+"Spore Swarm",1,67825,Uncommon,DAR,180/269,No
+"Sporecrown Thallid",1,67827,Uncommon,DAR,181/269,No
+"Tatyova, Benthic Druid",1,67877,Uncommon,DAR,206/269,No
+"Tetsuko Umezawa, Fugitive",1,67603,Uncommon,DAR,69/269,No
+"Thallid Soothsayer",1,67679,Uncommon,DAR,107/269,No
+"The Eldest Reborn",1,67645,Uncommon,DAR,90/269,No
+"The Flame of Keld",1,67711,Uncommon,DAR,123/269,No
+"Tiana, Ship's Caretaker",1,67881,Uncommon,DAR,208/269,No
+"Time of Ice",1,67605,Uncommon,DAR,70/269,No
+"Triumph of Gerrard",1,67541,Uncommon,DAR,38/269,No
+"Untamed Kavu",1,67837,Uncommon,DAR,186/269,No
+"Urgoros, the Empty One",1,67683,Uncommon,DAR,109/269,No
+"Urza's Tome",1,67935,Uncommon,DAR,235/269,No
+"Valduk, Keeper of the Flame",1,67761,Uncommon,DAR,148/269,No
+"Warcry Phoenix",1,67765,Uncommon,DAR,150/269,No
+"Weight of Memory",1,67613,Uncommon,DAR,74/269,No
+"Whisper, Blood Liturgist",1,67687,Uncommon,DAR,111/269,No
+"Wild Onslaught",1,67841,Uncommon,DAR,188/269,No
+"Wizard's Lightning",1,67769,Uncommon,DAR,152/269,No
+"Wizard's Retort",1,67615,Uncommon,DAR,75/269,No
+"Yargle, Glutton of Urborg",1,67691,Uncommon,DAR,113/269,No
+"Zhalfirin Void",1,67963,Uncommon,DAR,249/269,No
+"Aryel, Knight of Windgrace",1,67849,Rare,DAR,192/269,No
+"Benalish Marshal",1,67477,Rare,DAR,6/269,No
+"Blackblade Reforged",1,67887,Rare,DAR,211/269,No
+"Cabal Stronghold",1,67941,Rare,DAR,238/269,No
+"Daring Archaeologist",1,67491,Rare,DAR,13/269,No
+"Dread Shade",1,67641,Rare,DAR,88/269,No
+"Evra, Halcyon Witness",1,67497,Rare,DAR,16/269,No
+"Fall of the Thran",1,67501,Rare,DAR,18/269,No
+"Forebear's Blade",1,67893,Rare,DAR,214/269,No
+"Goblin Chainwhirler",1,67723,Rare,DAR,129/269,No
+"Grand Warlord Radha",1,67855,Rare,DAR,195/269,No
+"Haphazard Bombardment",1,67727,Rare,DAR,131/269,No
+"Helm of the Host",1,67899,Rare,DAR,217/269,No
+"Jaya's Immolating Inferno",1,67731,Rare,DAR,133/269,No
+"Jodah, Archmage Eternal",1,67861,Rare,DAR,198/269,No
+"Josu Vess, Lich Knight",1,67655,Rare,DAR,95/269,No
+"Kamahl's Druidic Vow",1,67797,Rare,DAR,166/269,No
+"Karn's Temporal Sundering",1,67575,Rare,DAR,55/269,No
+"Kazarov, Sengir Pureblood",1,67657,Rare,DAR,96/269,No
+"Lich's Mastery",1,67661,Rare,DAR,98/269,No
+"Marwyn, the Nurturer",1,67809,Rare,DAR,172/269,No
+"Mishra's Self-Replicator",1,67911,Rare,DAR,223/269,No
+"Naban, Dean of Iteration",1,67581,Rare,DAR,58/269,No
+"Oath of Teferi",1,67865,Rare,DAR,200/269,No
+"Precognition Field",1,67587,Rare,DAR,61/269,No
+"Primevals' Glorious Rebirth",1,67867,Rare,DAR,201/269,No
+"Rite of Belzenlok",1,67669,Rare,DAR,102/269,No
+"Shalai, Voice of Plenty",1,67535,Rare,DAR,35/269,No
+"Squee, the Immortal",1,67757,Rare,DAR,146/269,No
+"Steel Leaf Champion",1,67829,Rare,DAR,182/269,No
+"Sylvan Awakening",1,67831,Rare,DAR,183/269,No
+"Tempest Djinn",1,67601,Rare,DAR,68/269,No
+"Territorial Allosaurus",1,67833,Rare,DAR,184/269,No
+"Teshar, Ancestor's Apostle",1,67537,Rare,DAR,36/269,No
+"The Antiquities War",1,67549,Rare,DAR,42/269,No
+"The First Eruption",1,67709,Rare,DAR,122/269,No
+"The Mending of Dominaria",1,67811,Rare,DAR,173/269,No
+"The Mirari Conjecture",1,67579,Rare,DAR,57/269,No
+"Thran Temporal Gateway",1,67931,Rare,DAR,233/269,No
+"Torgaar, Famine Incarnate",1,67681,Rare,DAR,108/269,No
+"Traxos, Scourge of Kroog",1,67933,Rare,DAR,234/269,No
+"Two-Headed Giant",1,67759,Rare,DAR,147/269,No
+"Urza's Ruinous Blast",1,67543,Rare,DAR,39/269,No
+"Yawgmoth's Vile Offering",1,67693,Rare,DAR,114/269,No
+"Zahid, Djinn of the Lamp",1,67617,Rare,DAR,76/269,No
+"Darigaaz Reincarnated",1,67851,Mythic Rare,DAR,193/269,No
+"Demonlord Belzenlok",1,67637,Mythic Rare,DAR,86/269,No
+"History of Benalia",1,67507,Mythic Rare,DAR,21/269,No
+"Jaya Ballard",1,67729,Mythic Rare,DAR,132/269,No
+"Jhoira, Weatherlight Captain",1,67859,Mythic Rare,DAR,197/269,No
+"Mox Amber",1,67913,Mythic Rare,DAR,224/269,No
+"Muldrotha, the Gravetide",1,67863,Mythic Rare,DAR,199/269,No
+"Multani, Yavimaya's Avatar",1,67813,Mythic Rare,DAR,174/269,No
+"Naru Meha, Master Wizard",1,67583,Mythic Rare,DAR,59/269,No
+"Phyrexian Scriptures",1,67665,Mythic Rare,DAR,100/269,No
+"Teferi, Hero of Dominaria",1,67879,Mythic Rare,DAR,207/269,No
+"Verix Bladewing",1,67763,Mythic Rare,DAR,149/269,No
+"Weatherlight",1,67939,Mythic Rare,DAR,237/269,No
